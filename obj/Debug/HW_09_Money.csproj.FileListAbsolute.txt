@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\bin\Debug\HW_09_Money.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\bin\Debug\HW_09_Money.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\bin\Debug\HW_09_Money.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\obj\Debug\HW_09_Money.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\obj\Debug\HW_09_Money.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\obj\Debug\HW_09_Money.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_09_Money\obj\Debug\HW_09_Money.pdb
